@@ -1,0 +1,20 @@
+                            POKEMON: 
+                          OSU EDITION
+
+                          Developed by:
+                          Blake Roberts
+
+                              For:
+                             CS 162
+                           Prof. Coker
+                     Oregon State University
+
+                             POKEMON
+                              is a 
+                      Registered Trademark
+                               of
+                     Nintendo of America Inc.
+
+                          all ASCII art
+                          was taken from
+            https://www.asciiart.eu/video-games/pokemon
